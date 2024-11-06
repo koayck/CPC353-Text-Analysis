@@ -21,21 +21,10 @@ CPC353-Text-Analaysis
 ├─ .gitignore
 ├─ convert.py (python script to convert csv to txt)
 ├─ csv (contains the csv files for the dataset found online originally)
-│  ├─ JobsDataset.csv
-│  └─ omnibus_jobs_subset_r.csv
 ├─ data (contains the dataset used for the project)
-│  ├─ AIJobsDataset.csv
-│  ├─ DAJobsDataset.csv
-│  ├─ DLJobsDataset.csv
-│  ├─ DSJobsDataset.csv
-│  └─ MLJobsDataset.csv
-├─ README.md
-└─ txt (contains the text files converted from the csv dataset)
-   ├─ AIJobsDataset.txt
-   ├─ DAJobsDataset.txt
-   ├─ DLJobsDataset.txt
-   ├─ DSJobsDataset.txt
-   └─ MLJobsDataset.txt
+├─ txt (contains the text files converted from the csv dataset)
+├─ pos-tagged-txt (contains the pos tagged text files, which is to be used for text analysis)
+└─ README.md
 ```
 
 
